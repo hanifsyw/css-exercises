@@ -53,11 +53,6 @@ a{
   padding: 8px;
 }
 
-.left-links,
-.right-links{
-  display: flex;
-  gap: 8px; 
-}
 
 .content{
   display: flex;
